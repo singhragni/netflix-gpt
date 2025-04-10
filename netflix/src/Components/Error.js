@@ -9,7 +9,7 @@ export default function Error() {
       <div>
         <h1 className="text-6xl font-bold text-gray-800 mb-4">404</h1>
         <p className="text-lg text-gray-600 mb-6">
-          Page not found or an error occurred.
+          Page not found or an error.
         </p>
         <Link
           to="/"
