@@ -6,7 +6,7 @@ import Error from './Error';
 const Body = () =>{
     const appRouter = createBrowserRouter([
         {
-            path:'/',
+            path:'/in/login',
             element: <Login/>,
             errorElement: <Error/>
         },

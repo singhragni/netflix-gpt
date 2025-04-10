@@ -2,6 +2,14 @@
 - netflix sign- sign-up page
 - if authentication is done then go browser 
  browser
- - header
+ - header 
  - video play 
  - then diplac pic 
+
+
+
+ # login form
+
+
+
+
