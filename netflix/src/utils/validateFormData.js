@@ -15,6 +15,8 @@ const validateFormData = (Email, password) =>{
 
     if(Object.keys(errors).length>0)
         return {errors}
+    else
+        return null;
 
 }
 
